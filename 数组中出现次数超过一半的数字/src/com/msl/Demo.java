@@ -92,7 +92,7 @@ public class Demo {
                 continue;
             }
         }
-        //判断是否符合条件
+        //判断是否符合条件,重新计算次数，找出符合条件的次数
         count = 0;
         for (int i = 0; i < array.length; i++) {
             if(array[i] == result){
