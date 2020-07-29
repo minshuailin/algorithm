@@ -23,7 +23,7 @@ public class Demo {
         System.out.println(getNum2(array));
     }
     /**
-     *  中位数解法，先将数组排序，统计中位数出现的次数,针对偶数的数组，不适用
+     *  中位数解法，先将数组排序，统计中位数出现的次数
      * */
     public static int getNum(int[] array){
         Arrays.sort(array);
