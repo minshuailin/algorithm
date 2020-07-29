@@ -70,6 +70,7 @@ public class Demo {
     }
     /**
      *      数字出现次数大于数组长度的一半，说明该数字的出现的次数比剩下数字出现的次数之后都多
+     *      碰见相同的次数++，不同的相互抵消
      * */
     public static int getNum3(int[] array){
         if(array.length == 0){
