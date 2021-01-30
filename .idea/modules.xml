@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithm.iml" filepath="$PROJECT_DIR$/.idea/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/两个数组的交集II/两个数组的交集II.iml" filepath="$PROJECT_DIR$/两个数组的交集II/两个数组的交集II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/两数之和 II - 输入有序数组/两数之和 II - 输入有序数组.iml" filepath="$PROJECT_DIR$/两数之和 II - 输入有序数组/两数之和 II - 输入有序数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/二维数组中的查找/二维数组中的查找.iml" filepath="$PROJECT_DIR$/二维数组中的查找/二维数组中的查找.iml" />
       <module fileurl="file://$PROJECT_DIR$/判断回文字符串/判断回文字符串.iml" filepath="$PROJECT_DIR$/判断回文字符串/判断回文字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/发糖果/发糖果.iml" filepath="$PROJECT_DIR$/发糖果/发糖果.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/斐波那契数列/斐波那契数列.iml" filepath="$PROJECT_DIR$/斐波那契数列/斐波那契数列.iml" />
       <module fileurl="file://$PROJECT_DIR$/旋转数组的最小数字/旋转数组的最小数字.iml" filepath="$PROJECT_DIR$/旋转数组的最小数字/旋转数组的最小数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/替换空格/替换空格.iml" filepath="$PROJECT_DIR$/替换空格/替换空格.iml" />
+      <module fileurl="file://$PROJECT_DIR$/种花问题/种花问题.iml" filepath="$PROJECT_DIR$/种花问题/种花问题.iml" />
       <module fileurl="file://$PROJECT_DIR$/调整数组顺序使奇数位于偶数前面/调整数组顺序使奇数位于偶数前面.iml" filepath="$PROJECT_DIR$/调整数组顺序使奇数位于偶数前面/调整数组顺序使奇数位于偶数前面.iml" />
     </modules>
   </component>

@@ -9,7 +9,7 @@ package com.msl;
  *              相邻的孩子中，评分高的孩子必须获得更多的糖果。
  *              那么这样下来，老师至少需要准备多少颗糖果呢？
  *
- * 来源：力扣（LeetCode）
+ * 来源：力扣（LeetCode） 135
  * 链接：https://leetcode-cn.com/problems/candy
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
